@@ -7,7 +7,7 @@
  */
 int main(void)
 {
-char sentence[] = "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n";
-write(2, sentence, sizeof(sentence));
+char sent[] = "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n";
+write(2, sent, sizeof(sent));
 return (1);
 }
