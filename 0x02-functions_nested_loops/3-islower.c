@@ -1,6 +1,7 @@
 #include "main.h"
 /**
   * _islower - check if char is lowercase
+  * @alph: character to test.
   * Return: Nothing.
   */
 int _islower(int alph)
